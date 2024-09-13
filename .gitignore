@@ -66,3 +66,13 @@ file_descriptor_set.bin
 
 
 babel-ai
+.vscode/
+node_modules/
+dist/
+coverage/
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
